@@ -2,7 +2,7 @@
 
 Computer scientist by training, physicist at heart. I build apps, tools and datasets where code meets contemplation, from Ghent, Belgium, under the name [BLVCK STUDIOS](https://blvckstudios.com).
 
-I'm formalising how i-Magi-nation (accessed Magick) impacts local reality, with many sidequests along the way. Most of what you'll find here is one of those sidequests.
+Main Sidequest: I'm formalising how i-Magi-nation (accessed Magick) impacts local reality, with many sidequests along the way. Most of what you'll find here is one of those sidequests.
 
 **Magic = Art × Science**
 
