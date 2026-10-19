@@ -1,17 +1,18 @@
-# Adam Blvck
-
 Computer scientist by training, physicist at heart. I build apps, tools and datasets where code meets contemplation, from Ghent, Belgium, under the name [BLVCK STUDIOS](https://blvckstudios.com).
 
 Main Sidequest: I'm formalising how i-Magi-nation (accessed Magick) impacts local reality, with many sidequests along the way. Most of what you'll find here is one of those sidequests.
 
-**Magic = Art × Science**
+** I'm building me teenage GBA / Nintendo DS Homebrew app page, as fantastic proof for the integrity of my files.**
+
+**Magic = Art × Science** 
 
 ## Right now
 
 - Studying for a Master's in Physics at Ghent University, after a second bachelor's in Physics (Hasselt University, Magna Cum Laude, 2025).
-- Technical Manager at Gene Keys Publishing, where I build the Gene Keys Profiler and the systems behind it.
+- Technical Manager at Gene Keys Publishing, where I was responsible for building the Gene Keys Profiler, Triple Flame App, Gene Keys App, and Star Pearl Dashboard, with interoperable enterprise architecture.
+- Other apps: AcuPresence, Meridian Clock
 - Releasing twelve apps in one October. Ten are live. Star Elector and Shem72 are in App Store review, aiming for Halloween.
-- Latest talk: [Drawing the Mark in Physics, Story, and Magick](https://youtu.be/IH6h0ndEvyU), at LoF26, Wolfson College, Cambridge. ([summary and transcript](https://adamblvck.com/blog/drawing-the-mark-lof26))
+- Latest talk (Summer 2026): [Drawing the Mark in Physics, Story, and Magick](https://youtu.be/IH6h0ndEvyU), at LoF26, Wolfson College, Cambridge. ([summary and transcript](https://adamblvck.com/blog/drawing-the-mark-lof26))
 
 ## Twelve apps, one October
 
@@ -42,12 +43,12 @@ Years of research, writing and engineering, released in a single season. Most ar
 | [Star Elector](https://starelector.blvckstudios.com) | Fixed-star elections, judged with precision. Arriving on Halloween. |
 | [Shem72](https://shem72.blvckstudios.com) | Scan the 72 Names. Draw down the Light. Arriving on Halloween. |
 
-**Mathematics and writing**
+**Mathematics and important writing**
 
 | | |
 |---|---|
 | [Derivium](https://derivium.blvckstudios.com) | Serious undergraduate physics derivations, step by step, as collapsible LaTeX proof trees. |
-| [Analytical Magick](https://analyticalmagick.com) | A calculus of distinction, consciousness and magical operation, derived from George Spencer-Brown's Laws of Form. The most actively written thing I have. |
+| [Analytical Magick](https://analyticalmagick.com) | A calculus of distinction, consciousness and magical operation, derived from George Spencer-Brown's Laws of Form. A fair attempt to give conscious / belief-system acts a mathematical formalism, and reason from there. |
 
 Also on the shelf: [Gnomon](https://adamblvck.com/gnomon), a time companion that shows the I Ching hexagram and line the Sun and Moon occupy right now, on the phone, the wrist and a Pebble Time 2.
 
@@ -57,11 +58,11 @@ Also on the shelf: [Gnomon](https://adamblvck.com/gnomon), a time companion that
 
 - [open_777](https://github.com/adamblvck/open_777): the Liber 777 reference dataset and viewer behind Open 777.
 - [iching-wilhelm-dataset](https://github.com/adamblvck/iching-wilhelm-dataset): the Wilhelm-Baynes I Ching as JSON and CSV, all 64 hexagrams with judgments, images and line-by-line commentary. Published so other people stop re-typing it.
-- [free-human-design](https://github.com/adamblvck/free-human-design): a Human Design and Gene Keys engine in pure JavaScript. Gates, lines, centres, channels, the full bodygraph and astrology, with no native build and no ephemeris files.
+- [free-human-design](https://github.com/adamblvck/free-human-design): a more than-good-enough Human Design and Gene Keys engine in pure JavaScript. Gates, lines, centres, channels, the full bodygraph and astrology, with no native build and no ephemeris files (but extensible)
 
 **Laws of Form**
 
-- [tarati-react](https://github.com/adamblvck/tarati-react): George Spencer-Brown's board game, rebuilt for the web after the Laws of Form conference in Liverpool.
+- [tarati-react](https://github.com/adamblvck/tarati-react): George Spencer-Brown's board game, rebuilt for the web after the Laws of Form conference in Liverpool 2024.
 - [lof-truthtable](https://github.com/adamblvck/lof-truthtable): write an expression in the calculus of indications and watch it reduce.
 - [LawsOfForm-Simulator](https://github.com/adamblvck/LawsOfForm-Simulator): entropy against assembly, in the browser.
 - [Laws-of-Form-ChatGPT-Megaprompt](https://github.com/adamblvck/Laws-of-Form-ChatGPT-Megaprompt): the complete corpus of definitions, ready to hand to a language model.
@@ -95,7 +96,7 @@ TypeScript, React, React Native and Expo, Swift, Python and FastAPI, AWS.
 
 Bachelor's and Master's in Computer Science at Hasselt University (2013, 2015). Then six years at Valion as a data scientist and enterprise architect, for Johnson & Johnson, SWIFT, the Flemish Government and a handful of startups, with a long detour through blockchain: decentralised document verification for banks, insurers and governments. In 2020 I went back for physics.
 
-Alongside it, seven years of contemplation with the Gene Keys. I'm a Gene Keys Guide and Ambassador.
+Alongside it, seven years of contemplation with the Gene Keys. I'm a Gene Keys Guide, a Gene Keys Enjoyer, and a Gene Keys Builder.
 
 ## Elsewhere
 
