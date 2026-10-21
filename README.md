@@ -1,8 +1,8 @@
-Computer scientist by training, physicist at heart. I build apps, tools and datasets where code meets contemplation, from Ghent, Belgium, under the name [BLVCK STUDIOS](https://blvckstudios.com).
+Computer scientist by training, with physics in mind, and psychology in the heart. I build apps, tools and datasets where code meets contemplation and the esoteric. Based in Ghent, Belgium, I'm running [BLVCK STUDIOS](https://blvckstudios.com) while doing a masters in physics.
 
 Main Sidequest: I'm formalising how i-Magi-nation (accessed Magick) impacts local reality, with many sidequests along the way. Most of what you'll find here is one of those sidequests.
 
-** I'm building me teenage GBA / Nintendo DS Homebrew app page, as fantastic proof for the integrity of my files.**
+**Soon: I'm building a GBA / Nintendo DS Homebrew page from my teenage programming days.**
 
 **Magic = Art × Science** 
 
@@ -15,6 +15,8 @@ Main Sidequest: I'm formalising how i-Magi-nation (accessed Magick) impacts loca
 - Latest talk (Summer 2026): [Drawing the Mark in Physics, Story, and Magick](https://youtu.be/IH6h0ndEvyU), at LoF26, Wolfson College, Cambridge. ([summary and transcript](https://adamblvck.com/blog/drawing-the-mark-lof26))
 
 ## Twelve apps, one October
+
+My journey through 
 
 Years of research, writing and engineering, released in a single season. Most are free or free to try, and 95% of the copy is handwritten or dictated. Every app has a feedback button, and every message gets read.
 
@@ -94,7 +96,7 @@ TypeScript, React, React Native and Expo, Swift, Python and FastAPI, AWS.
 
 ## Before this
 
-Bachelor's and Master's in Computer Science at Hasselt University (2013, 2015). Then six years at Valion as a data scientist and enterprise architect, for Johnson & Johnson, SWIFT, the Flemish Government and a handful of startups, with a long detour through blockchain: decentralised document verification for banks, insurers and governments. In 2020 I went back for physics.
+Bachelor's and Master's in Computer Science at Hasselt University (2013, 2015). Then six years at Valion as a data scientist and enterprise architect, for Johnson & Johnson, SWIFT, the Flemish Government and a handful of startups, with a long detour through blockchain: decentralised document verification for banks, insurers and governments. In 2020 I went back for physics, while starting a sidetrack in product development.
 
 Alongside it, seven years of contemplation with the Gene Keys. I'm a Gene Keys Guide, a Gene Keys Enjoyer, and a Gene Keys Builder.
 
